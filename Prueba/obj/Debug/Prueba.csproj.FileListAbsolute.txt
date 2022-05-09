@@ -1,0 +1,6 @@
+C:\Users\57320\source\repos\SolucionOfima\Prueba\bin\Debug\Prueba.dll
+C:\Users\57320\source\repos\SolucionOfima\Prueba\bin\Debug\Prueba.pdb
+C:\Users\57320\source\repos\SolucionOfima\Prueba\obj\Debug\Prueba.csproj.AssemblyReference.cache
+C:\Users\57320\source\repos\SolucionOfima\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\57320\source\repos\SolucionOfima\Prueba\obj\Debug\Prueba.dll
+C:\Users\57320\source\repos\SolucionOfima\Prueba\obj\Debug\Prueba.pdb
