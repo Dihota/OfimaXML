@@ -10,7 +10,6 @@ namespace Prueba
 {
     public class Class1
     {
-
         public string xmlread( string ruta)
         {
             string datos = string.Empty;

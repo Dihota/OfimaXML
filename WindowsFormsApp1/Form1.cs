@@ -20,16 +20,21 @@ namespace WindowsFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Class1 C1 = new Class1();
-            string dato =  C1.xmlread(@"C:\Users\57320\Documents\XML\SAPHETY_ad08001323020252200000425.xml");
+            string xml = @"C:\Users\Hogar\Documents\Diego\ofima\Desarrollo\Lector Compra\XML\" + textBox1.Text;
 
+            LectorComprasFacturacionElectronica LecturaXML = new LectorComprasFacturacionElectronica();
+            string dato =  LecturaXML.XmlEmisor(xml);
 
+            //Se declara array para obtener los datos del emisor.
+            string[] Emisor = dato.Split('\u002C');
 
-            string[] array = dato.Split('\u002C');
+            //Se asignan los valores del emisor a su respectivo textbox.
+            label5.Text = Emisor[2];
+            label6.Text = Emisor[0];
+            label7.Text = Emisor[1];
+            label8.Text = Emisor[4];
+            label9.Text = Emisor[3];
 
-            textBox1.Text = array[0];
-            textBox2.Text = array[1];
-            textBox3.Text = array[2];
 
         }
 

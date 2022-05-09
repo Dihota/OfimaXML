@@ -4,3 +4,9 @@ C:\Users\57320\source\repos\SolucionOfima\Prueba\obj\Debug\Prueba.csproj.Assembl
 C:\Users\57320\source\repos\SolucionOfima\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
 C:\Users\57320\source\repos\SolucionOfima\Prueba\obj\Debug\Prueba.dll
 C:\Users\57320\source\repos\SolucionOfima\Prueba\obj\Debug\Prueba.pdb
+C:\Users\Hogar\Documents\Diego\ofima\Desarrollo\Lector Compra\NET\OfimaXML\Prueba\bin\Debug\Prueba.dll
+C:\Users\Hogar\Documents\Diego\ofima\Desarrollo\Lector Compra\NET\OfimaXML\Prueba\bin\Debug\Prueba.pdb
+C:\Users\Hogar\Documents\Diego\ofima\Desarrollo\Lector Compra\NET\OfimaXML\Prueba\obj\Debug\Prueba.csproj.AssemblyReference.cache
+C:\Users\Hogar\Documents\Diego\ofima\Desarrollo\Lector Compra\NET\OfimaXML\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\Hogar\Documents\Diego\ofima\Desarrollo\Lector Compra\NET\OfimaXML\Prueba\obj\Debug\Prueba.dll
+C:\Users\Hogar\Documents\Diego\ofima\Desarrollo\Lector Compra\NET\OfimaXML\Prueba\obj\Debug\Prueba.pdb

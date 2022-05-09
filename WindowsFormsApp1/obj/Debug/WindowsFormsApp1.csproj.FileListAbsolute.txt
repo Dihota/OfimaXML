@@ -12,3 +12,17 @@ C:\Users\57320\source\repos\SolucionOfima\WindowsFormsApp1\obj\Debug\WindowsForm
 C:\Users\57320\source\repos\SolucionOfima\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
 C:\Users\57320\source\repos\SolucionOfima\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\57320\source\repos\SolucionOfima\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Hogar\Documents\Diego\ofima\Desarrollo\Lector Compra\NET\OfimaXML\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Hogar\Documents\Diego\ofima\Desarrollo\Lector Compra\NET\OfimaXML\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Hogar\Documents\Diego\ofima\Desarrollo\Lector Compra\NET\OfimaXML\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Hogar\Documents\Diego\ofima\Desarrollo\Lector Compra\NET\OfimaXML\WindowsFormsApp1\bin\Debug\Prueba.dll
+C:\Users\Hogar\Documents\Diego\ofima\Desarrollo\Lector Compra\NET\OfimaXML\WindowsFormsApp1\bin\Debug\Prueba.pdb
+C:\Users\Hogar\Documents\Diego\ofima\Desarrollo\Lector Compra\NET\OfimaXML\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Hogar\Documents\Diego\ofima\Desarrollo\Lector Compra\NET\OfimaXML\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hogar\Documents\Diego\ofima\Desarrollo\Lector Compra\NET\OfimaXML\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Hogar\Documents\Diego\ofima\Desarrollo\Lector Compra\NET\OfimaXML\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Hogar\Documents\Diego\ofima\Desarrollo\Lector Compra\NET\OfimaXML\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Hogar\Documents\Diego\ofima\Desarrollo\Lector Compra\NET\OfimaXML\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Hogar\Documents\Diego\ofima\Desarrollo\Lector Compra\NET\OfimaXML\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Hogar\Documents\Diego\ofima\Desarrollo\Lector Compra\NET\OfimaXML\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Hogar\Documents\Diego\ofima\Desarrollo\Lector Compra\NET\OfimaXML\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
