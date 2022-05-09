@@ -1,0 +1,35 @@
+----------------------------------------------------------------------------------------Curso de git y Github (2021)----------------------------------------------------------------------------------------------------------
+
+Que es : Es un sistema de control de versiones
+
+---Instalacion
+	- Descargar Git.
+	- Instalr.
+	- "Git --version" comnprobar la version de git instalada.
+	- git config --global user.name "Diego Tamayo" ---definir nombre de usuario.
+	- git config --global user.email diegotsmsyoctma@gmail.com ---definir correo electronico.
+
+----Comandos basicos 
+	- Git init --inisicaliza el repositorio.
+	- git status -- ver el estado de los archivos.
+	- git add  -- agrega el archivo para que se a versionado.
+		-git add nombre --un solo archivo
+		-git add . --todos los archivos
+	- git commit -m "primer commit"---se realiza el coomir 
+	- git log --oneline -- ver todos los comit que se han realizado y su codigo.
+	- git checkout codigo --moverse a otra version
+	- git checkout master --volver a la ultima version
+	- git log --se ve informacion de los commit realizados mas detalladamente
+	- git show --permite ver los cambios realizados en el ultimo coomit
+	- git reset --permite devolver el coomit o cambios 
+		-git reset 652a26b --hard elimina todo los cambios en el coomit
+		- gti reset 652a26b --soft elimina pero conserva cambios
+	- git commit -am "" --commit con el add, solo para arcvhivos que ya se les realizo antes el add
+
+----Ramas 
+	-git branch nombre nueva rama --se crea una nueva rama, a partir de la master
+	-git checkout nombre rama --Sirve tambien para moverse entre rammas
+
+----subir cambios de una rama a la otra
+	-Git checkout nombre de la rama sin lso cambios 
+	-git merge nombre de la rama  a unir ----une los cambiko deuna rama con otra
