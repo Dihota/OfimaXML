@@ -35,6 +35,13 @@ namespace WindowsFormsApp1
             label8.Text = Emisor[4];
             label9.Text = Emisor[3];
 
+            string dato2 = LecturaXML.XmlAdquiriente(xml);
+            string[] Adqui = dato2.Split('\u002C');
+            label17.Text = Adqui[0];
+            label14.Text = Adqui[1];
+
+
+
 
         }
 
