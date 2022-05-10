@@ -39,7 +39,10 @@ namespace WindowsFormsApp1
             string[] Adqui = dato2.Split('\u002C');
             label17.Text = Adqui[0];
             label14.Text = Adqui[1];
-
+            label13.Text = Adqui[4];
+            label12.Text = Adqui[3];
+            label16.Text = Adqui[5];
+            label22.Text = Adqui[2];
 
 
 
